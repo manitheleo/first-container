@@ -1,11 +1,10 @@
-import logo from './logo.svg';
+
 import './App.css';
+import { Container } from '@mui/system';
 
 function App() {
   return (
-    <div className="App">
-      Hello world
-    </div>
+    <Container>this is my second container</Container>
   );
 }
 
